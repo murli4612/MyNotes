@@ -57,34 +57,34 @@
 
  
  
- HLD:
+#  HLD:
     
-1) REQUIREMENTS:
-    a) Functional:
-        1) user Management
-        2)Car Management(admin)
-        3)Search and book( Booking)
-        4)Tracking servies
-        5)Payments
-        6)Revie and Rating
-    b)Non-functional:
-        1)Scalibality
-        2)Perforence
-        3)Secrity
-        4)Reliability
+# 1) REQUIREMENTS:
+#     a) Functional:
+#         1) user Management
+#         2)Car Management(admin)
+#         3)Search and book( Booking)
+#         4)Tracking servies
+#         5)Payments
+#         6)Revie and Rating
+#     b)Non-functional:
+#         1)Scalibality
+#         2)Perforence
+#         3)Secrity
+#         4)Reliability
         
-Database Schema:
-    1)Users(id,name,email,phone)
-    2)Cars(id,model,year,Type_of_car,)
-    3)Booking(id,user_id,car_id)
-    4)Payments(id, Booking_id, status)
-    5)Review
+# Database Schema:
+#     1)Users(id,name,email,phone)
+#     2)Cars(id,model,year,Type_of_car,)
+#     3)Booking(id,user_id,car_id)
+#     4)Payments(id, Booking_id, status)
+#     5)Review
     
-API_Design:
-    1)POST /user/register
-    2)POST /user/login --for the Aunthenticate user
-    3)GET /car/avilable - Fetch avilable based on query param
-    4)POST / Booking_car 
-    5)POST /payments/process
-    6)POST /add/revivew
+# API_Design:
+#     1)POST /user/register
+#     2)POST /user/login --for the Aunthenticate user
+#     3)GET /car/avilable - Fetch avilable based on query param
+#     4)POST / Booking_car 
+#     5)POST /payments/process
+#     6)POST /add/revivew
     
