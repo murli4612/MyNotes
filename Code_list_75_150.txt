@@ -1,2 +1,316 @@
 https://leetcode.com/studyplan/top-interview-150/
 https://leetcode.com/studyplan/leetcode-75/
+Here are the first 75 questions from LeetCode’s Top Interview 150 list—organized by topic 
+Arrays / Strings (1–24)
+
+1)Merge Sorted Array
+
+2)Remove Element
+
+3)Remove Duplicates from Sorted Array
+
+4)Remove Duplicates from Sorted Array II
+
+5)Majority Element
+
+6)Rotate Array
+
+7)Best Time to Buy and Sell Stock
+
+8)Best Time to Buy and Sell Stock II
+
+9)Jump Game
+
+10)Jump Game II
+
+11)H-Index
+
+12)Insert Delete GetRandom O(1)
+
+13)Product of Array Except Self
+
+14)Gas Station
+
+15)Candy
+
+16)Trapping Rain Water
+
+17)Roman to Integer
+
+18)Integer to Roman
+
+19)Length of Last Word
+
+20)Longest Common Prefix
+
+21)Reverse Words in a String
+
+22)Zigzag Conversion
+
+23)Find the Index of the First Occurrence in a String
+
+24)Text Justification
+
+Two Pointers (25–29)
+
+25)Valid Palindrome
+
+26)Is Subsequence
+
+27)Two Sum II – Input Array Is Sorted
+
+28)Container With Most Water
+
+29)3Sum
+
+Sliding Window (30–33)
+
+30)Minimum Size Subarray Sum
+
+31)Longest Substring Without Repeating Characters
+
+32)Substring with Concatenation of All Words
+
+33)Minimum Window Substring
+
+Matrix (34–38)
+34. Valid Sudoku
+35. Spiral Matrix
+36. Rotate Image
+37. Set Matrix Zeroes
+38. Game of Life
+
+Hashmap (39–45)
+
+39)Isomorphic Strings
+
+40)Word Pattern
+
+41)Valid Anagram
+
+42)Group Anagrams
+
+43)Two Sum
+
+44)Ransom Note
+
+
+45)Longest Consecutive Sequence
+
+Intervals (46–49)
+46)Summary Ranges
+47)Merge Intervals
+
+48)Insert Interval
+
+49)Minimum Number of Arrows to Burst Balloons
+
+Stack (50–54)
+50)Valid Parentheses
+
+51)Simplify Path
+
+52)Min Stack
+
+53)Evaluate Reverse Polish Notation
+
+54)Basic Calculator
+
+Linked List (55–63)
+
+55)Add Two Numbers
+56)Remove Nth Node From End of List
+
+57)Reverse Linked List
+
+58)Merge Two Sorted Lists
+
+59)Merge k Sorted Lists
+
+60)Copy List with Random Pointer
+
+61)LRU Cache
+
+62)Sort List
+
+63)Reorder List
+
+Binary Tree – General (64–71)
+
+64)Maximum Depth of Binary Tree
+
+65)Same Tree
+
+66)Invert Binary Tree
+
+67)Symmetric Tree
+
+68)Binary Tree Level Order Traversal
+
+69)Binary Tree Zigzag Level Order Traversal
+
+70)Maximum Depth of N-ary Tree
+
+71)Construct Binary Tree from Preorder and Inorder Traversal
+
+Binary Tree – BFS / DFS (72–75)
+72)Binary Tree Level Order Traversal II
+73)Populating Next Right Pointers in Each Node
+74)Populating Next Right Pointers in Each Node II
+75)Binary Tree Right Side View
+
+Binary Tree – DFS Continued (76–81)
+76)Count Complete Tree Nodes
+77)Path Sum
+78)Path Sum II
+79)Sum Root to Leaf Numbers
+80)Binary Tree Maximum Path Sum
+81)Serialize and Deserialize Binary Tree
+
+
+Binary Search (82–88)
+82)Binary Search
+83)Search in Rotated Sorted Array
+84)Search a 2D Matrix
+85)Find Peak Element
+86)Find Minimum in Rotated Sorted Array
+87)Time Based Key-Value Store
+88)Median of Two Sorted Arrays
+
+Heap / Priority Queue (89–92)
+89)Kth Largest Element in an Array
+90)Top K Frequent Elements
+91)Find Median from Data Stream
+92)Merge k Sorted Lists (Heap approach alternative)
+
+Graph – General / BFS / DFS (93–101)
+93)Number of Islands
+94)Clone Graph
+95)Word Ladder
+
+96)Word Ladder II
+
+97)Course Schedule
+
+98)Course Schedule II
+
+99)Minimum Genetic Mutation
+
+100)Pacific Atlantic Water Flow
+
+101)Rotting Oranges
+
+
+Trie (102–104)
+102)Implement Trie (Prefix Tree)
+
+103)Word Search II
+
+104)Design Add and Search Words Data Structure
+
+Backtracking (105–110)
+
+105)Subsets
+
+106)Subsets II
+
+107)Permutations
+
+108)Permutations II
+
+109)Combination Sum
+
+110)Combination Sum II
+
+Divide & Conquer (111–113)
+
+111)Sort Colors
+
+112)Largest Number
+
+113)Kth Largest Element in an Array (Divide & Conquer approach)
+
+Kadane’s Algorithm (114–115)
+
+114)Maximum Subarray
+
+115)Maximum Product Subarray
+
+Bit Manipulation (116–121)
+
+116)Single Number
+
+117)Single Number II
+
+118)Number of 1 Bits
+
+119)Counting Bits
+
+120)Reverse Bits
+
+121)Missing Number
+
+
+Math (122–126)
+122)Happy Number
+
+123)Plus One
+
+124)Sqrt(x)
+
+125)Pow(x, n)
+
+126)Multiply Strings
+
+1D Dynamic Programming (127–133)
+127)Climbing Stairs
+
+128)Min Cost Climbing Stairs
+
+129)House Robber
+
+130)House Robber II
+
+131)Longest Increasing Subsequence
+
+132)Coin Change
+
+133)Word Break
+
+
+Multidimensional DP (134–141)
+134)Unique Paths
+
+135)Unique Paths II
+
+136)Minimum Path Sum
+
+137)Triangle
+
+138)Edit Distance
+
+139)Distinct Subsequences
+
+140)Interleaving String
+
+141)Dungeon Game
+
+
+Extra / Miscellaneous (142–150)
+142)Reverse Linked List II
+
+143)Palindrome Linked List
+
+144)Odd Even Linked List
+
+145)Intersection of Two Linked Lists
+
+146)Linked List Cycle
+
+147)Linked List Cycle II
+
+148)Flatten a Multilevel Doubly Linked List
+
+149)Remove Linked List Elements
+
+150)Design Linked List
